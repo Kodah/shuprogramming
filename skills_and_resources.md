@@ -126,3 +126,26 @@ _Resources_:
 - Android Devices (Galaxy Note 10.1 and Galaxy Mini)
 - Mindstorms EV3
 - Kinect for Windows Device
+
+---
+
+__[Tom Sugarev](http://github.com/kodah)__
+
+_Skills_:
+- C++ (6)
+- C# (6)
+- Java (6)
+- Python (6)
+- HTML + CSS (6)
+- PHP (6)
+- Javascript/JQuery (6)
+- AJAX / JSON (6)
+- SQL (6)
+- Git (6)
+- Quantum Physics (7)
+
+_Resources_:
+- Android
+- Hackintosh (xcode)
+
+---
