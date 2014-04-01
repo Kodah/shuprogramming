@@ -27,7 +27,7 @@ __Members List__
 - [Ryan Robinson](https://github.com/RyRobo)
 - Luke Segaran
 - Chad Simpson
-- Tom Sugarev
+- [Tom Sugarev] (https://github.com/Kodah)
 - [Scott Spittle] (https://github.com/ScottSpittle)
 - [Shaun Webb] (https://github.com/TehWebby)
 - [Luke Ward] (https://github.com/Lukeeward)
